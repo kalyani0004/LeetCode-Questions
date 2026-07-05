@@ -1,4 +1,4 @@
- 🚀 LeetCode Solutions
+ 🚀 **LeetCode Solutions**
 
 Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems that I solve as part of my Data Structures & Algorithms and coding interview preparation journey.
 
