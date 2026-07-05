@@ -1,6 +1,3 @@
-# LeetCode-Questions
-A curated collection of my LeetCode solutions with clean code, optimized approaches, and explanations to improve problem-solving and interview preparation.
-
  🚀 LeetCode Solutions
 
 Welcome to my LeetCode Solutions repository! This repository contains my solutions to LeetCode problems that I solve as part of my Data Structures & Algorithms and coding interview preparation journey.
