@@ -1,3 +1,8 @@
+#Problem 767:Reorganize Strings
+#Difficulty:Medium
+#Time Complexity:O(nlogk)
+#Space Complexity:O(n)
+
 class Solution:
     def reorganizeString(self, s: str) -> str:
         freq=Counter(s)
