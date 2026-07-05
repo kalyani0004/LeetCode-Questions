@@ -21,7 +21,7 @@ Currently, solutions are written in:
 
 
 📂 Repository Structure
-
+```text
 LeetCode-Questions/
 │
 ├── Easy/
@@ -29,7 +29,7 @@ LeetCode-Questions/
 │   ├── 0767_Reorganize_String.py
 ├── Hard/
 └── README.md
-
+```
 📖 Solution Format
 
 Each solution may include:
