@@ -87,7 +87,7 @@ class Solution:
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 0      |
-| 🟡 Medium  | 1      |
+| 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
 | **Total**  | **1**  |
 
