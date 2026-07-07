@@ -5,7 +5,7 @@
 
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        s=list(s)
+        s=list(s) #convert dictionary to list
         stack=[]
 
         for i,char in enumerate(s):
