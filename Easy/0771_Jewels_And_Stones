@@ -1,0 +1,22 @@
+#Problem:771
+#Difficulty:Easy
+#Time Complexity:O(n)
+
+class Solution:
+    def numJewelsInStones(self, jewels: str, stones: str) -> int:
+        seen={}
+
+        for i,nums in enumerate(jewels):
+            if nums not in seen:
+                seen[nums]=i
+
+        seen_set=set(seen)
+        count=0
+
+        for i in stones:
+            if i in seen_set:
+                count+=1
+        
+        return count
+               
+        
