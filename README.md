@@ -86,10 +86,10 @@ class Solution:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 0      |
+| 🟢 Easy    | 1      |
 | 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 > This table will be updated as I solve more problems.
 
