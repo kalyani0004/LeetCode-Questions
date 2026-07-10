@@ -1,0 +1,16 @@
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        seen_t={}
+        for i,num in enumerate(t):
+            if i not in seen_t:
+                seen_t[num]=t.count(num)
+            
+        seen_s={}
+        for i,num in enumerate(s):
+            if i not in seen_s:
+                seen_s[num]=s.count(num)
+        
+        if seen_s==seen_t:
+            return True
+        else:
+            return False
