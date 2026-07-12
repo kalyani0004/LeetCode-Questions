@@ -41,16 +41,6 @@ Each solution may include:
 * ✅ Space Complexity
 * ✅ Clean and readable code
 
-Example:
-
-```python
-# Problem: 1. Two Sum
-# Difficulty: Easy
-
-class Solution:
-    def twoSum(self, nums, target):
-        ...
-```
 
  🎯 Topics Covered
 
@@ -86,10 +76,10 @@ class Solution:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 6      |
+| 🟢 Easy    | 7     |
 | 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
-| **Total**  | **8**  |
+| **Total**  | **9**  |
 
 > This table will be updated as I solve more problems.
 
