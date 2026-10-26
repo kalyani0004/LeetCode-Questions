@@ -76,7 +76,7 @@ Each solution may include:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 7     |
+| 🟢 Easy    | 8     |
 | 🟡 Medium  | 2      |
 | 🔴 Hard    | 0      |
 | **Total**  | **9**  |
