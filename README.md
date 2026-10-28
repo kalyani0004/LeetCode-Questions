@@ -76,10 +76,10 @@ Each solution may include:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 11     |
+| 🟢 Easy    | 12     |
 | 🟡 Medium  | 3      |
 | 🔴 Hard    | 0      |
-| **Total**  | **14**  |
+| **Total**  | **15**  |
 
 > This table will be updated as I solve more problems.
 
